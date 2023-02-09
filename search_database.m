@@ -1,4 +1,4 @@
-% Buscar filas y columnas dentro de una base de datos subministrada
+% Buscar filas y columnas dentro de una base de datos suministrada
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
