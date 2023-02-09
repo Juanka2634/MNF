@@ -5,4 +5,4 @@
 
 My Neuro functions
 
-Repository dedicated to store the functions created and applied by me in brain image processing.
+Repository dedicated to storing functions used in the processing of medical brain images.
